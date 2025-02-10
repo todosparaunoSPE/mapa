@@ -1,1 +1,10 @@
-
+streamlit
+pandas
+geopandas
+folium
+streamlit-folium
+requests
+matplotlib
+seaborn
+plotly
+openpyxl
